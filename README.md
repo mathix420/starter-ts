@@ -1,6 +1,6 @@
-# pkg-placeholder
+# starter-ts
 
-> Note: Replace `pkg-placeholder`, `_description_`, `"keywords": []` and `mathix420` globally to use this template.
+> Note: Replace `starter-ts`, `_description_`, `"keywords": []` and `mathix420` globally to use this template.
 
 Inpired from https://github.com/ryansonshine/typescript-npm-package-template and https://github.com/antfu/starter-ts
 

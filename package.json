@@ -1,15 +1,15 @@
 {
-  "name": "pkg-placeholder",
+  "name": "starter-ts",
   "type": "module",
   "description": "_description_",
   "author": "Arnaud Gissinger <agissing@student.42.fr>",
   "license": "MIT",
-  "homepage": "https://github.com/mathix420/pkg-placeholder#readme",
+  "homepage": "https://github.com/mathix420/starter-ts#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathix420/pkg-placeholder.git"
+    "url": "git+https://github.com/mathix420/starter-ts.git"
   },
-  "bugs": "https://github.com/mathix420/pkg-placeholder/issues",
+  "bugs": "https://github.com/mathix420/starter-ts/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {

@@ -20,7 +20,7 @@
     }
   },
   "scripts": {
-    "build": "./build.ts",
+    "build": "bun build src/index.ts --outdir dist/ --sourcemap=external --target=node --splitting",
     "lint": "eslint ./src/",
     "lintfix": "eslint ./src/ --fix",
     "prepare": "husky install",

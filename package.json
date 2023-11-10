@@ -1,6 +1,7 @@
 {
   "name": "@mathix420/starter-ts",
   "type": "module",
+  "private": false,
   "version": "0.0.1",
   "description": "_description_",
   "author": "Arnaud Gissinger <agissing@student.42.fr>",

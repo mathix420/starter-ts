@@ -9,6 +9,7 @@
     80
   ],
   "conventionalCommits.scopes": [
-    "package.json"
+    "package.json",
+    "deps"
   ]
 }

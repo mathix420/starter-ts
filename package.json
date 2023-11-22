@@ -50,16 +50,16 @@
     "@ryansonshine/cz-conventional-changelog": "^3.3.4",
     "@semantic-release/github": "^9.2.3",
     "@semantic-release/npm": "^11.0.1",
-    "@typescript-eslint/eslint-plugin": "^6.10.0",
-    "@typescript-eslint/parser": "^6.10.0",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
     "bun-types": "latest",
     "conventional-changelog-conventionalcommits": "^7.0.2",
-    "eslint": "^8.53.0",
+    "eslint": "^8.54.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.1",
     "husky": "^8.0.3",
-    "prettier": "^3.0.3",
-    "semantic-release": "^22.0.7"
+    "prettier": "^3.1.0",
+    "semantic-release": "^22.0.8"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

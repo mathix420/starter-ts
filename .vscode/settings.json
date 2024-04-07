@@ -1,7 +1,7 @@
 {
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true,
+    "source.fixAll": "explicit"
   },
   "editor.defaultFormatter": "dbaeumer.vscode-eslint",
   "prettier.enable": false,

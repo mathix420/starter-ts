@@ -1,9 +1,6 @@
 # starter-ts
 
 [![npm](https://badgen.net/npm/v/@mathix420/starter-ts)](https://npmjs.com/package/@mathix420/starter-ts)
-<!-- [![bundlephobia](https://badgen.net/bundlephobia/tree-shaking/@mathix420/starter-ts)](https://npmjs.com/package/@mathix420/starter-ts) -->
-[![npm](https://badgen.net/github/license/@mathix420/starter-ts)](https://npmjs.com/package/@mathix420/starter-ts)
-
 
 > Note: Replace `starter-ts`, `_description_`, `"keywords": []` and `mathix420` globally to use this template.
 

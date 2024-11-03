@@ -85,7 +85,10 @@
               "type": "build",
               "scope": "deps",
               "release": "patch"
-            }
+            },
+            { "type": "chore", "release": "patch" },
+            { "type": "refactor", "release": "patch" },
+            { "type": "style", "release": "patch" }
           ]
         }
       ],

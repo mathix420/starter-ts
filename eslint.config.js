@@ -1,19 +1,20 @@
-import prettierConfig from "eslint-config-prettier";
-import prettier from "eslint-plugin-prettier";
+import stylistic from '@stylistic/eslint-plugin'
 import tseslint from "typescript-eslint";
 import eslint from "@eslint/js";
 
 export default [
     eslint.configs.recommended,
     ...tseslint.configs.recommended,
-    prettierConfig,
     {
         files: ["**/*.ts"],
         plugins: {
-            prettier,
+            '@stylistic': stylistic,
         },
         rules: {
-            "prettier/prettier": "error",
+            '@stylistic/indent': ['error', 4],
+            '@stylistic/semi': ['error', "always"],
+            '@stylistic/quotes': ['error', "double"],
+            '@stylistic/function-paren-newline': ['error', { "minItems": 3 }],
         },
     },
 ];
